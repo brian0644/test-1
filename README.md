@@ -9,3 +9,7 @@
 2. 지역 저장소 연결하기
 3. 커밋하기
 4. 푸시하기
+
+![IMG_8110](https://github.com/user-attachments/assets/6990beef-6063-4508-842c-166039fea0d6)
+
+
