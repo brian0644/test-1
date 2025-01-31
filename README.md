@@ -10,6 +10,8 @@
 3. 커밋하기
 4. 푸시하기
 
+깃 허브 데브를 사용해 문서를 수정 중입니다.
+
 ![IMG_8110](https://github.com/user-attachments/assets/6990beef-6063-4508-842c-166039fea0d6)
 
 
